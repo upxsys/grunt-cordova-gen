@@ -1,0 +1,52 @@
+{
+  "name": "grunt-cordova-gen",
+  "description": "Generate splashscreen",
+  "version": "1.0.0",
+  "homepage": "https://github.com/upxsys/grunt-cordova-gen",
+  "author": {
+    "name": "Mario Penterman",
+    "email": "mario@upxsys.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/upxsys/grunt-cordova-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/upxsys/grunt-cordova-gen/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/upxsys/grunt-cordova-gen/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "matchdep": "~0.3.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.11"
+  },
+  "keywords": [
+    "gruntplugin",
+    "splash",
+    "splashscreen",
+    "screen",
+    "graphicsmagick",
+    "mobile",
+    "tablet",
+    "phonegap",
+    "cordova",
+    "android",
+    "ios",
+    "windows"
+  ],
+  "dependencies": {
+    "gm": "~1.14.2",
+    "async": "~0.2.9"
+  }
+}
